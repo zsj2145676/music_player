@@ -58,6 +58,12 @@
 			album: '范特西',
 			cover: 'http://i.eimg.com.tw/d/alb/54/18854.300.jpg?ver=',
 			mp3: 'http://csdj.so/qq.php/SergioZhao/14668/csdj.mp3'
+		},{
+			title: '明明就',
+			artist: 'Jay Zhou',
+			album: '十二新作',
+			cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
+			mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
 		}];
 
 	// Load playlist
