@@ -21,7 +21,7 @@
             artist: 'Jay Zhou',
             album: '十二新作',
             cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
-            mp3: 'https://dl-web.dropbox.com/get/Music/jay-%E7%88%B1%E4%BD%A0%E6%B2%A1%E5%B7%AE.mp3?w=AACIHnrv1yK_7fXwp2rxMyqH7BaRUa_0cvsERUK43JqUUw'
+            mp3: 'https://dl-web.dropbox.com/get/Music/jay-%E7%88%B1%E4%BD%A0%E6%B2%A1%E5%B7%AE.wav?w=AAARiGHjZYoR_rL9Lr4CxJRfyEIUYAb_ONtp2dHze_x1qw'
         }, {
             title: '比较大的大提琴',
             artist: 'Jay Zhou',
