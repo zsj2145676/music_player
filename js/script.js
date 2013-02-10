@@ -52,6 +52,12 @@
 			album: '我很忙',
 			cover: 'http://www.zata.cn/files/img/200810/20081023_217426.jpg',
 			mp3: 'http://csdj.so/qq.php/SergioZhao/14663/csdj.mp3'
+		},{
+			title: '安静',
+			artist: 'Jay Zhou',
+			album: '范特西',
+			cover: 'http://i.eimg.com.tw/d/alb/54/18854.300.jpg?ver=',
+			mp3: 'http://csdj.so/qq.php/SergioZhao/14668/csdj.mp3'
 		}];
 
 	// Load playlist
