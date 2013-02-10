@@ -64,6 +64,12 @@
 			album: '十二新作',
 			cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
 			mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+		},{
+			title: '红尘客栈',
+			artist: 'Jay Zhou',
+			album: '十二新作',
+			cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
+			mp3: 'http://csdj.so/qq.php/SergioZhao/14676/csdj.mp3'
 		}];
 
 	// Load playlist
