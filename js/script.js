@@ -133,7 +133,7 @@
 			$('.volume .slider a').css('left', value * 100 + '%');
 		}
 
-	var volume = localStorage.volume || 1;
+	var volume = localStorage.volume || 0.8;
 	$('.volume .slider').slider({
 		max: 1,
 		min: 0,
