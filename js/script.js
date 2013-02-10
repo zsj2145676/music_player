@@ -34,6 +34,12 @@
 			album: '摩杰座',
 			cover: 'http://www.zata.cn/files/img/200811/20081101_234600.jpg',
 			mp3: 'http://csdj.so/qq.php/SergioZhao/14659/csdj.mp3'
+		},{
+			title: '花海',
+			artist: 'Jay Zhou',
+			album: '摩杰座',
+			cover: 'http://www.zata.cn/files/img/200811/20081101_234600.jpg',
+			mp3: 'http://csdj.so/qq.php/SergioZhao/14661/csdj.mp3'
 		}];
 
 	// Load playlist
