@@ -16,6 +16,18 @@
 			album: '我很忙',
 			cover: 'http://www.zata.cn/files/img/200810/20081023_217426.jpg',
 			mp3: 'http://csdj.so/qq.php/SergioZhao/14625/csdj.mp3'
+		},{
+			title: '夜曲',
+			artist: 'Jay Zhou',
+			album: '十一月的萧邦',
+			cover: 'http://pic.cnbb.com.cn/cms/uploads/allimg/100519/1542031258-0.jpg',
+			mp3: 'http://csdj.so/qq.php/SergioZhao/14657/csdj.mp3'
+		},{
+			title: '彩虹',
+			artist: 'Jay Zhou',
+			album: '我很忙',
+			cover: 'http://www.zata.cn/files/img/200810/20081023_217426.jpg',
+			mp3: 'http://csdj.so/qq.php/SergioZhao/14658/csdj.mp3'
 		}];
 
 	// Load playlist
