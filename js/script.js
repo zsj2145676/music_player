@@ -9,7 +9,7 @@
 		    artist : 'Jay Zhou',
 		    album: '摩杰座',
 		    cover : 'http://www.zata.cn/files/img/200811/20081101_234600.jpg',
-		    wma : 'music/http://csdj.so/mp3.php/SergioZhao/14619/csdj.wma'
+		    mp3 : 'music/http://csdj.so/qq.php/SergioZhao/14619/csdj.mp3'
 		}];
 
 	// Load playlist
