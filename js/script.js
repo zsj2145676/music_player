@@ -9,7 +9,7 @@
             artist: 'Jay Zhou',
             album: '十二新作',
             cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
-            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+            mp3: 'https://dl-web.dropbox.com/get/Music/jay-%E6%98%8E%E6%98%8E%E5%B0%B1.mp3?w=AAA1Mg_JY246CrZrmAVAeZ3GhKKMLYgguP0CG8gQQXXgGQ'
         }, {
             title: '红尘客栈',
             artist: 'Jay Zhou',
@@ -21,43 +21,37 @@
             artist: 'Jay Zhou',
             album: '十二新作',
             cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
-            mp3: 'http://csdj.so/qq.php/SergioZhao/14690/csdj.mp3'
+            mp3: 'https://dl-web.dropbox.com/get/Music/jay-%E7%88%B1%E4%BD%A0%E6%B2%A1%E5%B7%AE.mp3?w=AACIHnrv1yK_7fXwp2rxMyqH7BaRUa_0cvsERUK43JqUUw'
         }, {
             title: '比较大的大提琴',
             artist: 'Jay Zhou',
             album: '十二新作',
             cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
-            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+            mp3: 'https://dl-web.dropbox.com/get/Music/jay-%E6%AF%94%E8%BC%83%E5%A4%A7%E7%9A%84%E5%A4%A7%E6%8F%90%E7%90%B4.mp3?w=AABZm0eepy95RSqrWlwPJCRmH5iyl9Kl3SsNgQYNvksK9A'
         },{
             title: '大笨钟',
             artist: 'Jay Zhou',
             album: '十二新作',
             cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
-            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
-        },{
-            title: '公公偏头痛',
-            artist: 'Jay Zhou',
-            album: '十二新作',
-            cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
-            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+            mp3: 'https://dl-web.dropbox.com/get/Music/jay-%E5%A4%A7%E7%AC%A8%E9%92%9F.mp3?w=AAAJEMX0zGjrzmajD1Miv9cEGSjHVdNZg8dzLiIoqq_ZNA'
         },{
             title: '哪里都是你',
             artist: 'Jay Zhou',
             album: '十二新作',
             cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
-            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+            mp3: 'https://dl-web.dropbox.com/get/Music/jay-%E5%93%AA%E9%87%8C%E9%83%BD%E6%98%AF%E4%BD%A0.mp3?w=AAAiJJxkaZXitTDXaf26jL66SAWXH2PAvVD7vNP9uvaHVA'
         },{
             title: '手语',
             artist: 'Jay Zhou',
             album: '十二新作',
             cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
-            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+            mp3: 'https://dl-web.dropbox.com/get/Music/jay-%E6%89%8B%E8%AF%AD.mp3?w=AADxjdv9tWXEZNY-G1W64wKRNzG8SfNsRDBGRdBuFq68RQ'
         },{
             title: '傻笑',
             artist: 'Jay Zhou',
             album: '十二新作',
             cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
-            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+            mp3: 'https://dl-web.dropbox.com/get/Music/jay-%E5%82%BB%E7%AC%91.mp3?w=AADsecdrHrikiFpLwNwfvA2c-B7-Jlnext_nwv_N88z_nA'
         },{
             title: '给我一首歌的时间',
             artist: 'Jay Zhou',
@@ -111,7 +105,7 @@
             artist: 'Jay Zhou',
             album: '范特西',
             cover: 'http://i.eimg.com.tw/d/alb/54/18854.300.jpg?ver=',
-            mp3: 'http://csdj.so/qq.php/SergioZhao/14668/csdj.mp3'
+            mp3: 'https://dl-web.dropbox.com/get/Music/jay-%E5%AE%89%E9%9D%99.mp3?w=AAD74C564mYz48ANWS4ftw-nDyKfqjzBHVpSRjqglClenQ'
         }];
 
     // Load playlist
