@@ -23,11 +23,47 @@
             cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
             mp3: 'http://csdj.so/qq.php/SergioZhao/14690/csdj.mp3'
         }, {
+            title: '比较大的大提琴',
+            artist: 'Jay Zhou',
+            album: '十二新作',
+            cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
+            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+        },{
+            title: '大笨钟',
+            artist: 'Jay Zhou',
+            album: '十二新作',
+            cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
+            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+        },{
+            title: '公公偏头痛',
+            artist: 'Jay Zhou',
+            album: '十二新作',
+            cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
+            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+        },{
+            title: '哪里都是你',
+            artist: 'Jay Zhou',
+            album: '十二新作',
+            cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
+            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+        },{
+            title: '手语',
+            artist: 'Jay Zhou',
+            album: '十二新作',
+            cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
+            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+        },{
+            title: '傻笑',
+            artist: 'Jay Zhou',
+            album: '十二新作',
+            cover: 'http://img2.ifensi.com/channelimg/titlepic/articlephotopath/2013/01/24/37394839/20130124_12.jpg',
+            mp3: 'http://csdj.so/qq.php/SergioZhao/14672/csdj.mp3'
+        },{
             title: '给我一首歌的时间',
             artist: 'Jay Zhou',
             album: '摩杰座',
             cover: 'http://www.zata.cn/files/img/200811/20081101_234600.jpg',
-            mp3: 'http://csdj.so/qq.php/SergioZhao/14619/csdj.mp3'
+            mp3: 'https://dl-web.dropbox.com/get/Music/213-instrumental_music-give_me_a_time_of_song-tosk.mp3?w=AAAJenmhPzAgYpyKef1jleVVzNGBgsliseg4XwUGgjzQVQ'
         }, {
             title: '说好的幸福呢',
             artist: 'Jay Zhou',
